@@ -10,6 +10,7 @@ export class ImobiliareComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    
   }
 
 }
